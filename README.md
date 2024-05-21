@@ -34,7 +34,7 @@
 ### Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luis-caceres-cto-cfo)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](URL de tu perfil de Twitter)
+
 [![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:mitdevpro@gmail.com)
 
 ---
