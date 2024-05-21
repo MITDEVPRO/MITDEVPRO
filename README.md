@@ -17,6 +17,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-333333?style=flat&logo=linux)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-333333?style=flat&logo=linux)
 
 ### Intereses en Tecnología y Seguridad
 
@@ -34,7 +36,6 @@
 ### Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luis-caceres-cto-cfo)
-
 [![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:mitdevpro@gmail.com)
 
 ---
@@ -62,4 +63,3 @@ Además de mi pasión por la tecnología, disfruto explorando nuevas culturas y 
 
 ---
 
-![Luis Caceres](https://www.example.com/your-profile-picture.jpg)
