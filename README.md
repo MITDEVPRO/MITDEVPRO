@@ -3,7 +3,7 @@
 ### Sobre mí
 
 - 💼 CTO en [Dimerco](https://www.dimerco.com/)
-- 🎓 Especializaciones en el MIT y diversas maestrías
+- 🎓 Especializaciones en el MIT y diversas maestrías y certificaciones
 - 🌱 Actualmente estoy aprendiendo y explorando nuevas tecnologías y prácticas de seguridad informática.
 - 📫 Puedes contactarme en [mitdevpro@gmail.com](mailto:mitdevpro@gmail.com).
 - ⚡ Fun fact: Soy un apasionado del café y disfruto probando diferentes métodos de preparación.
@@ -36,20 +36,24 @@
 ### Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luis-caceres-cto-cfo)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](URL de tu perfil de Twitter)
 [![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:mitdevpro@gmail.com)
 
 ---
 
 ### Certificaciones y Cursos
 
-- 📜 Especialización en Seguridad Informática - MIT
-- 📜 Certificación en Desarrollo de Aplicaciones Web - MIT
-- 📜 Certificación en Computación en la Nube - MIT
-- 📜 Certificación en Industria 4.0 - MIT
-- 📜 Certificación en Automatización de Procesos - MIT
-- 📜 Maestría en Negocios Internacionales
-- 📜 Maestría en Ciencias de Datos
-- 📜 Magíster en Ingeniería y Tecnologías de la Información, Comunicación y Automatización
+- 📜 Ingeniero Civil Industrial - Universidad Central de Chile ![UC](https://img.shields.io/badge/-UC-333333?style=flat&logo=universidad-central-de-chile)
+- 📜 Especialización en Seguridad Informática - MIT ![MIT](https://img.shields.io/badge/-MIT-333333?style=flat&logo=mit)
+- 📜 Certificación en Desarrollo de Aplicaciones Web - MIT ![MIT](https://img.shields.io/badge/-MIT-333333?style=flat&logo=mit)
+- 📜 Certificación en Computación en la Nube - MIT ![MIT](https://img.shields.io/badge/-MIT-333333?style=flat&logo=mit)
+- 📜 Certificación en Industria 4.0 - MIT ![MIT](https://img.shields.io/badge/-MIT-333333?style=flat&logo=mit)
+- 📜 Certificación en Automatización de Procesos - MIT ![MIT](https://img.shields.io/badge/-MIT-333333?style=flat&logo=mit)
+- 📜 Maestría en Negocios Internacionales - Universidad Central de Chile ![UC](https://img.shields.io/badge/-UC-333333?style=flat&logo=universidad-central-de-chile)
+- 📜 Maestría en Ciencias de Datos - Universidad Central de Chile ![UC](https://img.shields.io/badge/-UC-333333?style=flat&logo=universidad-central-de-chile)
+- 📜 Magíster en Ingeniería y Tecnologías de la Información, Comunicación y Automatización - Universidad Central de Chile ![UC](https://img.shields.io/badge/-UC-333333?style=flat&logo=universidad-central-de-chile)
+- 📜 Diplomado en Desarrollo Web - Universidad Católica de Chile ![UC](https://img.shields.io/badge/-UC-333333?style=flat&logo=universidad-católica-de-chile)
+- 📜 Diplomado en Desarrollo de Aplicaciones en Python - Universidad Católica de Chile ![UC](https://img.shields.io/badge/-UC-333333?style=flat&logo=universidad-católica-de-chile)
 
 ---
 
@@ -62,5 +66,4 @@ Además de mi pasión por la tecnología, disfruto explorando nuevas culturas y 
 ⭐ **Si te interesa colaborar o tienes una oportunidad que se alinee con mi perfil, no dudes en contactarme. Estoy siempre abierto a nuevas oportunidades y conexiones profesionales.**
 
 ---
-
 
