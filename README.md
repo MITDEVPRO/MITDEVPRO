@@ -1,11 +1,12 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy Luis Caceres 👋
 
 ### Sobre mí
 
 - 🌱 Actualmente estoy aprendiendo [tecnología, herramienta, etc.].
-- 💼 Trabajo en [Tu Empresa] como [Tu Puesto].
+- 💼 Trabajo en Dimerco como CTO.
 - 📫 Puedes contactarme en [tu correo electrónico].
-- ⚡ Fun fact: [algún dato curioso sobre ti].
+- ⚡ Fun fact: Fun fact: Soy un apasionado del café y disfruto probando diferentes métodos de preparación.
+
 
 ### Tecnologías y Herramientas
 
