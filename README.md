@@ -3,9 +3,9 @@
 ### Sobre mí
 
 - 💼 CTO en [Dimerco](https://www.dimerco.com/)
-- 🎓 Especializaciones en el MIT
+- 🎓 Especializaciones en el MIT y diversas maestrías
 - 🌱 Actualmente estoy aprendiendo y explorando nuevas tecnologías y prácticas de seguridad informática.
-- 📫 Puedes contactarme en [tu correo electrónico].
+- 📫 Puedes contactarme en [mitdevpro@gmail.com](mailto:mitdevpro@gmail.com).
 - ⚡ Fun fact: Soy un apasionado del café y disfruto probando diferentes métodos de preparación.
 
 ### Tecnologías y Herramientas
@@ -33,9 +33,9 @@
 
 ### Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](URL de tu perfil de LinkedIn)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luis-caceres-cto-cfo)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](URL de tu perfil de Twitter)
-[![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:tuemail@ejemplo.com)
+[![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:mitdevpro@gmail.com)
 
 ---
 
@@ -46,6 +46,9 @@
 - 📜 Certificación en Computación en la Nube - MIT
 - 📜 Certificación en Industria 4.0 - MIT
 - 📜 Certificación en Automatización de Procesos - MIT
+- 📜 Maestría en Negocios Internacionales
+- 📜 Maestría en Ciencias de Datos
+- 📜 Magíster en Ingeniería y Tecnologías de la Información, Comunicación y Automatización
 
 ---
 
