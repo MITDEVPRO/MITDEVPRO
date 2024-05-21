@@ -2,7 +2,7 @@
 
 ### Sobre mí
 
-- 💼 CTO en [Dimerco](https://www.dimerco.com/)
+- 💼 CTO en [Dimerco](https://www.dimerco.cl/)
 - 🎓 Especializaciones en el MIT y diversas maestrías y certificaciones
 - 🌱 Actualmente estoy aprendiendo y explorando nuevas tecnologías y prácticas de seguridad informática.
 - 📫 Puedes contactarme en [mitdevpro@gmail.com](mailto:mitdevpro@gmail.com).
@@ -36,7 +36,6 @@
 ### Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luis-caceres-cto-cfo)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](URL de tu perfil de Twitter)
 [![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:mitdevpro@gmail.com)
 
 ---
