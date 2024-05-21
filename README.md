@@ -43,18 +43,16 @@
 
 ### Certificaciones y Cursos
 
-- 📜 Ingeniero Civil Industrial - Universidad Central de Chile ![UC](https://img.shields.io/badge/-UC-333333?style=flat&logo=universidad-central-de-chile)
-- 📜 Especialización en Seguridad Informática - MIT ![MIT](https://img.shields.io/badge/-MIT-333333?style=flat&logo=mit)
-- 📜 Certificación en Desarrollo de Aplicaciones Web - MIT ![MIT](https://img.shields.io/badge/-MIT-333333?style=flat&logo=mit)
-- 📜 Certificación en Computación en la Nube - MIT ![MIT](https://img.shields.io/badge/-MIT-333333?style=flat&logo=mit)
-- 📜 Certificación en Industria 4.0 - MIT ![MIT](https://img.shields.io/badge/-MIT-333333?style=flat&logo=mit)
-- 📜 Certificación en Automatización de Procesos - MIT ![MIT](https://img.shields.io/badge/-MIT-333333?style=flat&logo=mit)
-- 📜 Maestría en Negocios Internacionales - Universidad Central de Chile ![UC](https://img.shields.io/badge/-UC-333333?style=flat&logo=universidad-central-de-chile)
-- 📜 Maestría en Ciencias de Datos - Universidad Central de Chile ![UC](https://img.shields.io/badge/-UC-333333?style=flat&logo=universidad-central-de-chile)
-- 📜 Magíster en Ingeniería y Tecnologías de la Información, Comunicación y Automatización - Universidad Central de Chile ![UC](https://img.shields.io/badge/-UC-333333?style=flat&logo=universidad-central-de-chile)
-- 📜 Diplomado en Desarrollo Web - Universidad Católica de Chile ![UC](https://img.shields.io/badge/-UC-333333?style=flat&logo=universidad-católica-de-chile)
-- 📜 Diplomado en Desarrollo de Aplicaciones en Python - Universidad Católica de Chile ![UC](https://img.shields.io/badge/-UC-333333?style=flat&logo=universidad-católica-de-chile)
-
+- 📜 Ingeniero Civil Industrial - Universidad Central de Chile 
+- 📜 Especialización en Seguridad Informática - MIT 
+- 📜 Certificación en Desarrollo de Aplicaciones Web - MIT
+- 📜 Certificación en Computación en la Nube - MIT 
+- 📜 Certificación en Industria 4.0 - MIT 
+- 📜 Certificación en Automatización de Procesos - MIT
+- 📜 Maestría en Negocios Internacionales - Universidad Central de Chile 
+- 📜 Maestría en Ciencias de Datos - Universidad Central de Chile
+- 📜 Magíster en Ingeniería y Tecnologías de la Información, Comunicación y Automatización - Universidad Central de Chile 
+- 📜 Diplomado en Desarrollo de Aplicaciones en Python - Universidad Católica de Chile 
 ---
 
 ### Un poco más sobre mí
